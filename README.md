@@ -1,12 +1,12 @@
 Hello,
 I'm a caffene addict, high school student, and a professional idiot with access to the internet :3
 
-Currently I'm learning Kotlin, and trying my best.
+Currently I'm learning Kotlin, and writing an encrypted communication protocol.
 
 ---
 
 ### Music
-I like Falling In Reverse, Bring Me The Horizon, Geoxor, Daft Punk, Rage Against The Machine, Nirvana, Tame Impala, Le Castle Vania, Locked Loose, Yuri Petrovski, GHOST DATA and more :3
+I like Falling In Reverse, Bring Me The Horizon, Geoxor, Daft Punk, Rage Against The Machine, Nirvana, Tame Impala, Le Castle Vania, Knocked Loose, Yuri Petrovski, GHOST DATA and more :3
 
 ---
 
