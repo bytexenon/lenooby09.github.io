@@ -1,6 +1,3 @@
-# Homepage
----
-
 Hello,
 I'm a caffene addict, high school student, and a professional idiot with access to the internet :3
 Currently I'm learning Kotlin, and trying my best.
@@ -21,7 +18,5 @@ Another special thanks to Liz for getting me more conecced to the community and 
 ## Socials
 
 
-### Discord
-lenooby09
-### Twitter
-[@lenooby09](https://twitter.com/lenooby09)
+### Discord        Twitter
+lenooby09       [@lenooby09](https://twitter.com/lenooby09)
