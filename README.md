@@ -13,7 +13,7 @@ I like Falling In Reverse, Bring Me The Horizon, Geoxor, Daft Punk, Rage Against
 ### Special Thanks
 I would like to give a special thanks to Nanami, for getting me into Kotlin in the first place.
 
-Another special thanks to Liz for getting me more conecced to the community and in general being a great friend.
+Another special thanks to [Liz](lizainslie.dev) for getting me more connected into the community and in general being a great friend. <3
 
 ---
 
