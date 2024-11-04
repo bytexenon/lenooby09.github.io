@@ -6,7 +6,7 @@ Currently I'm learning Kotlin, and trying my best.
 ---
 
 ### Music
-I like Falling in reverse, Bring me the horizon, Geoxor, Daft Punk, Rage against the machine, Nirvana, and more :3
+I like Falling In Reverse, Bring Me The Horizon, Geoxor, Daft Punk, Rage Against The Machine, Nirvana, Tame Impala, Le Castle Vania, Locked Loose, Yuri Petrovski, GHOST DATA and more :3
 
 ---
 
@@ -20,5 +20,5 @@ Another special thanks to Liz for getting me more conecced to the community and 
 ## Socials
 
 
-### Discord        Twitter
-lenooby09       [@lenooby09](https://twitter.com/lenooby09)
+### Discord | Twitter
+lenooby09   |  [@lenooby09](https://twitter.com/lenooby09)
