@@ -11,7 +11,7 @@ I like Falling In Reverse, Bring Me The Horizon, Geoxor, Daft Punk, Rage Against
 ---
 
 ### Games
-I play a wide variety of games and some are: Terraria, Stardew valley, Minecraft, Red Dead Redemption 2, No Man's Sky, Ghostrunner, Kingdom come deliverance and BeamNG
+I play a wide variety of games and some are: Terraria, Stardew valley, Minecraft, Red Dead Redemption 2, Ready Or Not, No Man's Sky, Ghostrunner, Kingdom Come Deliverance and BeamNG Drive
 
 ---
 
