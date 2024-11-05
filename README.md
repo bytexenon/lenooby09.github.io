@@ -10,6 +10,16 @@ I like Falling In Reverse, Bring Me The Horizon, Geoxor, Daft Punk, Rage Against
 
 ---
 
+### Games
+I play a wide variety of games and some are: Terraria, Stardew valley, Minecraft, Red Dead Redemption 2, No Man's Sky, Ghostrunner, Kingdom come deliverance and BeamNG
+
+---
+
+### People that inspire me
+I have been inspired by a lot of people but most notably by Theo, Primeagen and PirateSoftware
+
+---
+
 ### Special Thanks
 I would like to give a special thanks to Nanami, for getting me into Kotlin in the first place.
 
