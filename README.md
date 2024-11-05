@@ -20,6 +20,16 @@ I have been inspired by a lot of people but most notably by Theo, Primeagen and 
 
 ---
 
+### Stats
+
+|Work:|unemployed|
+|---|---|
+|Side Projects:|6|
+|Current Project:|Encrypted Communication Protocol|
+|Languages:|Kotlin, Python, C, TypeScript|
+
+---
+
 ### Special Thanks
 I would like to give a special thanks to Nanami, for getting me into Kotlin in the first place.
 
@@ -28,7 +38,6 @@ Another special thanks to [Liz](lizainslie.dev) for getting me more connected in
 ---
 
 ## Socials
-
 
 | Discord    | Twitter |
 |------------|---------|
