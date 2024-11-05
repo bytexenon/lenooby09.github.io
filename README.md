@@ -30,5 +30,6 @@ Another special thanks to [Liz](lizainslie.dev) for getting me more connected in
 ## Socials
 
 
-### Discord | Twitter
-lenooby09   |  [@lenooby09](https://twitter.com/lenooby09)
+| Discord    | Twitter |
+|------------|---------|
+|lenooby09   |  [@lenooby09](https://twitter.com/lenooby09) |
