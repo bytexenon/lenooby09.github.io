@@ -35,7 +35,7 @@ I have been inspired by a lot of people but most notably by Theo, Primeagen and 
 I would like to give a special thanks to Nanami, for getting me into Kotlin in the first place.
 
 
-Another very special thanks to [Liz](https://lizainslie.dev) for getting me more connected into the community, being a great friend and helping me out when I needed it the most. <3
+Another very special thanks to [Mey](https://lizainslie.dev) for getting me more connected into the community, being a great friend and helping me out when I needed it the most. <3
 
 ---
 
