@@ -41,6 +41,6 @@ Another very special thanks to [Liz](https://lizainslie.dev) for getting me more
 
 ## Socials
 
-| Discord    | Twitter |
-|------------|---------|
-|lenooby09   |  [@lenooby09](https://twitter.com/lenooby09) |
+| Discord    | Twitter | Last.fm |
+|------------|---------|---------|
+|lenooby09   |  [@lenooby09](https://twitter.com/lenooby09) | [lenooby09](https://www.last.fm/user/lenooby09) |
