@@ -1,3 +1,10 @@
+|LeNooby09|Socials|
+|-|-|
+|Aspiring Kotlin dev|<table><tr><td>[BlueSky](https://bsky.app/profile/lenooby09.github.io)</td><td>[Last.fm](https://last.fm/user/lenooby09)</td></tr><tr><td><table><tr>Discord</tr><tr><td>@lenooby09</td></tr></table></td><td>[Dead birb app](https://twitter.com/lenooby09)</td></tr></table>|
+
+---
+
+
 Hello,
 I'm a caffene addict, high school student, and a professional idiot with access to the internet :3
 
@@ -36,11 +43,3 @@ I would like to give a special thanks to Nanami, for getting me into Kotlin in t
 
 
 Another very special thanks to [Mey](https://lizainslie.dev) for getting me more connected into the community, being a great friend and helping me out when I needed it the most. <3
-
----
-
-## Socials
-
-|Discord|Twitter|BlueSky|Last.fm|
-|---|---|---|---|
-|lenooby09|  [@lenooby09](https://twitter.com/lenooby09) |[@lenooby09.github.io](https://bsky.app/profile/lenooby09.github.io)| [@lenooby09](https://www.last.fm/user/lenooby09) |
