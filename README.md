@@ -1,8 +1,8 @@
 
 Hello,
-I'm a caffene addict, high school student, and a professional idiot with access to the internet :3
+I'm a caffeine addict, high school student, and a professional idiot with access to the internet :3
 
-Currently I'm learning Kotlin, and writing an encrypted communication protocol.
+Currently, I'm learning Kotlin, and writing an encrypted communication protocol.
 
 ---
 
@@ -22,17 +22,16 @@ I have been inspired by a lot of people but most notably by Theo, Primeagen and 
 ---
 
 ### Stats:
-|Stats:|Description|
-|---|---|
-|Work:|unemployed|
-|Side Projects:|6|
-|Current Project:|Encrypted Communication Protocol|
-|Languages:|Kotlin, Python, C, TypeScript|
+| Stats:           | Description                      |
+|------------------|----------------------------------|
+| Work:            | unemployed                       |
+| Side Projects:   | 6                                |
+| Current Project: | Encrypted Communication Protocol |
+| Languages:       | Kotlin, Python, C, TypeScript    |
 
 ---
 
 ### Special Thanks:
-
 I would like to give a special thanks to Nanami, for getting me into Kotlin in the first place.
 
 
@@ -40,9 +39,9 @@ Another very special thanks to [Mey](https://lizainslie.dev) for getting me more
 
 ## Socials and contact:
 
-|Discord|Twitter|BlueSky|Last.fm|
-|---|---|---|---|
-|lenooby09|[@lenooby09](https://twitter.com/lenooby09)|[@lenooby09.github.io](https://bsky.app/profile/lenooby09.github.io)|[@lenooby09](https://www.last.fm/user/lenooby09)|
+| Discord   | Twitter                                     | BlueSky                                                              | Last.fm                                          |
+|-----------|---------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------|
+| lenooby09 | [@lenooby09](https://twitter.com/lenooby09) | [@lenooby09.github.io](https://bsky.app/profile/lenooby09.github.io) | [@lenooby09](https://www.last.fm/user/lenooby09) |
 
 #### Session:
 `05ba4c3149c2de3b9a3da4726c6d48b4f41d53282eb73beb80de2dab454b5a0f72`
