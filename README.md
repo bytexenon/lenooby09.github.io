@@ -1,6 +1,30 @@
-|LeNooby09|Socials|
-|-|-|
-|Aspiring Kotlin dev|<table><tr><td>[BlueSky](https://bsky.app/profile/lenooby09.github.io)</td><td>[Last.fm](https://last.fm/user/lenooby09)</td></tr><tr><td><table><tr>Discord</tr><tr><td>@lenooby09</td></tr></table></td><td>[Dead birb app](https://twitter.com/lenooby09)</td></tr></table>|
+<table>
+    <tr>
+        <td>
+            [BlueSky](https://bsky.app/profile/lenooby09.github.io)
+        </td>
+        <td>
+            [Last.fm](https://last.fm/user/lenooby09)
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    Discord
+                </tr>
+                <tr>
+                    <td>
+                        @lenooby09
+                    </td>
+                </tr>
+            </table>
+        </td>
+            <td>
+                [Dead birb app](https://twitter.com/lenooby09)
+            </td>
+        </tr>
+</table>
 
 ---
 
