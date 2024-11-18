@@ -25,7 +25,7 @@ I have been inspired by a lot of people but most notably by Theo, Primeagen and 
 |Stats:|Description|
 |--|--|
 |Work:|unemployed|
-|Side Projects:|6|
+|Side Projects:|8|
 |Current Project:|Encrypted Communication Protocol|
 |Languages:|Kotlin, Python, C, TypeScript|
 
