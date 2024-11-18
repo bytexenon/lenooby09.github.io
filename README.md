@@ -22,12 +22,12 @@ I have been inspired by a lot of people but most notably by Theo, Primeagen and 
 ---
 
 ### Stats:
-| Stats:           | Description                      |
-|------------------|----------------------------------|
-| Work:            | unemployed                       |
-| Side Projects:   | 6                                |
-| Current Project: | Encrypted Communication Protocol |
-| Languages:       | Kotlin, Python, C, TypeScript    |
+|Stats:|Description|
+|--|--|
+|Work:|unemployed|
+|Side Projects:|6|
+|Current Project:|Encrypted Communication Protocol|
+|Languages:|Kotlin, Python, C, TypeScript|
 
 ---
 
@@ -39,9 +39,9 @@ Another very special thanks to [Mey](https://lizainslie.dev) for getting me more
 
 ## Socials and contact:
 
-| Discord   | Twitter                                     | BlueSky                                                              | Last.fm                                          |
-|-----------|---------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------|
-| lenooby09 | [@LeNooby09](https://twitter.com/lenooby09) | [@LeNooby09.github.io](https://bsky.app/profile/lenooby09.github.io) | [@LeNooby09](https://www.last.fm/user/lenooby09) |
+|Discord|Twitter|BlueSky|Last.fm|Anilist|
+|--|--|--|--|--|
+|lenooby09|[@LeNooby09](https://twitter.com/lenooby09)|[@LeNooby09.github.io](https://bsky.app/profile/lenooby09.github.io)|[@LeNooby09](https://www.last.fm/user/lenooby09)|[@LeNooby09](https://anilist.co/user/LeNooby09/)|
 
 #### Session:
 `05ba4c3149c2de3b9a3da4726c6d48b4f41d53282eb73beb80de2dab454b5a0f72`
