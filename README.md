@@ -7,8 +7,8 @@ Currently, I'm learning Kotlin, and writing an encrypted communication protocol.
 ---
 
 ### Music:
-Falling In Reverse, Bring Me The Horizon, Geoxor, Daft Punk, 
-Rage Against The Machine, Nirvana, Tame Impala, Le Castle Vania, 
+Falling In Reverse, Bring Me The Horizon, Geoxor, Daft Punk,
+Rage Against The Machine, Nirvana, Tame Impala, Le Castle Vania,
 Knocked Loose, Yuri Petrovski, GHOST DATA and more... a lot more
 
 ###### just check my [Last.fm](https://www.last.fm/user/lenooby09) for more
@@ -16,8 +16,8 @@ Knocked Loose, Yuri Petrovski, GHOST DATA and more... a lot more
 ---
 
 ### Games:
-Terraria, Stardew valley, Minecraft, Red Dead Redemption 2, 
-Ready Or Not, No Man's Sky, Ghostrunner, Kingdom Come Deliverance, 
+Terraria, Stardew valley, Minecraft, Red Dead Redemption 2,
+Ready Or Not, No Man's Sky, Ghostrunner, Kingdom Come Deliverance,
 BeamNG Drive and BitBurner
 
 ---
@@ -39,11 +39,11 @@ Theo, Primeagen and PirateSoftware
 ---
 
 ### Special Thanks:
-I would like to give a special thanks to Nanami, 
+I would like to give a special thanks to Nanami,
 for getting me into Kotlin in the first place.
 
 
-Another very special thanks to [Mey](https://lizainslie.dev) for getting me more connected into the community, 
+Another very special thanks to [Mey](https://lizainslie.dev) for getting me more connected into the community,
 being a great friend and helping me out when I needed it the most. <3
 
 ## Socials and contact:
