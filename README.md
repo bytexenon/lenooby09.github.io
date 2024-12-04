@@ -1,4 +1,6 @@
 
+![88x31](assets/88x31/88x31.png)
+
 Hello,
 I'm a caffeine addict, high school student, and a professional idiot with access to the internet :3
 
