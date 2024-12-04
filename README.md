@@ -53,7 +53,25 @@ being a great friend and helping me out when I needed it the most. <3
 
 #### Friends:
 
-[BlueSky](https://go.bsky.app/Ef9DDKE)
+[meow_d](https://meow_d.github.io)
+
+[Mey](https://lizainslie.dev)
+
+[Fryl](https://fryl.dev)
+
+[onzecki](https://onz.ee)
+
+[Luna](https://imlunahey.com)
+
+[H4rl](https://h4rl.dev)
+
+[Luna](https://gxthmxm.com)
+
+[Schtormm](https://schtormm.nl)
+
+[bytexenon](https://bytexenon.github.io)
+
+[BlueSky List](https://go.bsky.app/Ef9DDKE)
 
 ---
 
