@@ -49,25 +49,14 @@ being a great friend and helping me out when I needed it the most. <3
 
 ---
 
-#### Friends:
+### Friends:
 
-[![meow_d](https://meow-d.github.io/assets/images/buttons/meow_d.webp)](https://meow-d.github.io/)
+[![meow_d](https://meow-d.github.io/assets/images/buttons/meow_d.webp)](https://meow-d.github.io/)   [![onzecki](https://onz.ee/assets/88x31s/avif/onzecki.avif)](https://onz.ee)
 
-[Mey](https://lizainslie.dev)
+[Mey](https://lizainslie.dev)  [Fryl](https://fryl.dev)   [Luna](https://imlunahey.com)   [H4rl](https://h4rl.dev)
 
-[Fryl](https://fryl.dev)
+[Luna](https://gxthmxm.com)   [Schtormm](https://schtormm.nl)   [bytexenon](https://bytexenon.github.io)
 
-[![onzecki](https://onz.ee/assets/88x31s/avif/onzecki.avif)](https://onz.ee)
-
-[Luna](https://imlunahey.com)
-
-[H4rl](https://h4rl.dev)
-
-[Luna](https://gxthmxm.com)
-
-[Schtormm](https://schtormm.nl)
-
-[bytexenon](https://bytexenon.github.io)
 
 [BlueSky List](https://go.bsky.app/Ef9DDKE)
 
