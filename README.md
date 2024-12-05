@@ -57,7 +57,7 @@ being a great friend and helping me out when I needed it the most. <3
 
 [Fryl](https://fryl.dev)
 
-[onzecki](https://onz.ee)
+[![onzecki](https://onz.ee/assets/88x31s/avif/onzecki.avif)](https://onz.ee)
 
 [Luna](https://imlunahey.com)
 
