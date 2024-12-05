@@ -44,8 +44,8 @@ I would like to give a special thanks to Nanami,
 for getting me into Kotlin in the first place.
 
 
-Another very special thanks to [Mey](https://lizainslie.dev) for getting me more connected into the community,
-being a great friend and helping me out when I needed it the most. <3
+Another very special thanks to [**Mey**](https://lizainslie.dev) for getting me more connected into the community,
+being a great friend and helping me out when I needed it the most. ![<3](assets/88x31/popup_%3C3_catppuccin_macchiato.png)
 
 ---
 
@@ -76,4 +76,7 @@ please don't, I'm not worth it
 
 ---
 
+# Button:
+
 ![88x31](assets/88x31/88x31.png)
+###### [button assets](assets/88x31/assets.md)
