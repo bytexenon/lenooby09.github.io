@@ -4,6 +4,7 @@ I'm a caffeine addict, high school student, and a professional idiot with access
 
 ![arch](assets/88x31/arch_catppuccin_macchiato.png)
 btw
+
 ---
 
 ### Music:
