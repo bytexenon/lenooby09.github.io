@@ -1,9 +1,9 @@
 
 Hello,
-I'm a caffeine addict, high school student, and a professional idiot with access to the internet :3
+I'm a caffeine addict, high school student, and a professional idiot with access to the internet ![:3](assets/88x31/popup_:3_catppuccin_macchiato.png)
 
-Currently, I'm learning Kotlin, and writing an encrypted communication protocol.
-
+![arch](assets/88x31/arch_catppuccin_macchiato.png)
+btw
 ---
 
 ### Music:
