@@ -51,7 +51,7 @@ being a great friend and helping me out when I needed it the most. <3
 
 #### Friends:
 
-[![meow_d](https://meow-d.github.io/assets/images/buttons/meow_d.webp)](https://meow_d.github.io)
+[![meow_d](https://meow-d.github.io/assets/images/buttons/meow_d.webp)](https://meow-d.github.io/)
 
 [Mey](https://lizainslie.dev)
 
