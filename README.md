@@ -1,6 +1,4 @@
 
-![88x31](assets/88x31/88x31.png)
-
 Hello,
 I'm a caffeine addict, high school student, and a professional idiot with access to the internet :3
 
@@ -53,13 +51,13 @@ being a great friend and helping me out when I needed it the most. <3
 
 #### Friends:
 
-[meow_d](https://meow_d.github.io)
+[![meow_d](https://meow-d.github.io/assets/images/buttons/meow_d.webp)](https://meow-d.github.io/)
 
 [Mey](https://lizainslie.dev)
 
 [Fryl](https://fryl.dev)
 
-[onzecki](https://onz.ee)
+[![onzecki](https://onz.ee/assets/88x31s/avif/onzecki.avif)](https://onz.ee)
 
 [Luna](https://imlunahey.com)
 
@@ -86,3 +84,7 @@ being a great friend and helping me out when I needed it the most. <3
 
 ### [Donate](assets/donate)
 please don't, I'm not worth it
+
+---
+
+![88x31](assets/88x31/88x31.png)
