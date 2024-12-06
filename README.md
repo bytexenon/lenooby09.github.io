@@ -63,12 +63,7 @@ being a great friend and helping me out when I needed it the most. ![<3](assets/
 
 ---
 
-# Testimonials
-
-"`using the most elitist distro on the planet (Arch Linux) and not using a tiling desktop manager is the most serious warcrime i can think of bro`" - bytexenon
-
-"`how can someone be so terminally online, unbelievable smh smh`" - bytexenon
-
+# [Testimonials](assets/testamonials/readme.md)
 
 ---
 
