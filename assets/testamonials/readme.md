@@ -15,3 +15,9 @@
 "`YOU'RE A MEANIEEE`" - bytexenon"
 
 "`IF YOU CONTINUE BULLYING ME IM GONNA- actually i dont wanna get pinned again 😟`" - bytexenon
+
+"`terminussy`" - bytexenon
+
+"`elemenussy`" - bytexenon
+
+"`STOP PINNING ME`" - bytexenon
