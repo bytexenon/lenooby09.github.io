@@ -6,6 +6,8 @@
 
 "`how can someone be so terminally online, unbelievable smh smh`" - bytexenon
 
+# Quotes
+
 "`Go to bed 😭`" - bytexenon
 
 "`Damn, bro is turning into a Linux neckbeard more and more every day 💀💀💀`" - bytexenon
