@@ -6,8 +6,12 @@
 
 "`how can someone be so terminally online, unbelievable smh smh`" - bytexenon
 
+"`Damn, bro is turning into a Linux neckbeard more and more every day 💀💀💀`" - bytexenon
+
 # Quotes
 
 "`Go to bed 😭`" - bytexenon
 
-"`Damn, bro is turning into a Linux neckbeard more and more every day 💀💀💀`" - bytexenon
+"`YOU'RE A MEANIEEE`" - bytexenon"
+
+"`IF YOU CONTINUE BULLYING ME IM GONNA- actually i dont wanna get pinned again 😟`" - bytexenon
