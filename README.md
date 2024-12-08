@@ -56,7 +56,7 @@ being a great friend and helping me out when I needed it the most. ![<3](assets/
 
 [Mey](https://lizainslie.dev)  [Fryl](https://fryl.dev)   [Luna](https://imlunahey.com)   [H4rl](https://h4rl.dev)
 
-[Luna](https://gxthmxm.com)   [Schtormm](https://schtormm.nl)   [bytexenon](https://bytexenon.github.io)
+[Luna](https://gxthmxm.com)   [Schtormm](https://schtormm.nl)   [bytexenon](https://bytexenon.github.io)![<3](assets/88x31/popup_%3C3_catppuccin_macchiato.png)
 
 
 [BlueSky List](https://go.bsky.app/Ef9DDKE)
