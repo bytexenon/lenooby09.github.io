@@ -12,6 +12,8 @@
 
 "`"im straight but my boyfriend's gay"`" - unknown
 
+"`i'm bi-curious and open-minded smh`" - bytexenon
+
 "`Go to bed 😭`" - bytexenon
 
 "`YOU'RE A MEANIEEE`" - bytexenon"
