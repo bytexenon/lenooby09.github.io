@@ -10,6 +10,8 @@
 
 # Quotes
 
+"`"im straight but my boyfriend's gay"`" - unknown
+
 "`Go to bed 😭`" - bytexenon
 
 "`YOU'RE A MEANIEEE`" - bytexenon"
