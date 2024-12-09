@@ -12,7 +12,7 @@
 
 "`"im straight but my boyfriend's gay"`" - unknown
 
-"`i'm bi-curious and open-minded smh`" - bytexenon
+"`i'm bi-curious and open-minded smh`" - bytexenon + LeNooby09
 
 "`Go to bed 😭`" - bytexenon
 
@@ -25,3 +25,7 @@
 "`elemenussy`" - bytexenon
 
 "`STOP PINNING ME`" - bytexenon
+
+"`I'm a masterbaiter`" - bytexenon
+
+"`I'm not a furry, I'm a catboy uwu`" - bytexenon
