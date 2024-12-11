@@ -64,9 +64,9 @@ my beloved
 
 ## Socials and contact:
 
-| Discord | ~~Twitter~~ | BlueSky | Last.fm | Anilist | Matrix |
-|---|---|---|---|---|---|
-| [Server](assets/discord) | [~~@LeNooby09~~](https://twitter.com/lenooby09) | [@LeNooby09.github.io](https://bsky.app/profile/lenooby09.github.io) | [@LeNooby09](https://www.last.fm/user/lenooby09) | [@LeNooby09](https://anilist.co/user/LeNooby09/) | [LeNooby09](lenooby09:matrix.org) |
+| Discord | ~~Twitter~~ | BlueSky | Last.fm | Anilist | Matrix | E-Mail |
+|---|---|---|---|---|---|---|
+| [Server](assets/discord) | [~~@LeNooby09~~](https://twitter.com/lenooby09) | [@LeNooby09.github.io](https://bsky.app/profile/lenooby09.github.io) | [@LeNooby09](https://www.last.fm/user/lenooby09) | [@LeNooby09](https://anilist.co/user/LeNooby09/) | [LeNooby09](lenooby09:matrix.org) | lenooby09@proton.me |
 
 ###### Session:
 `05ba4c3149c2de3b9a3da4726c6d48b4f41d53282eb73beb80de2dab454b5a0f72`
