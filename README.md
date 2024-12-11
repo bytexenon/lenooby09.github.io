@@ -7,6 +7,10 @@ btw
 
 ---
 
+#### [PGP](assets/pgp)
+
+---
+
 ### Games:
 Terraria, Stardew valley, Minecraft, Red Dead Redemption 2,
 Ready Or Not, No Man's Sky, Ghostrunner, Kingdom Come Deliverance,
