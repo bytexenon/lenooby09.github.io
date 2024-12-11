@@ -27,7 +27,7 @@
 
 ### Full .bashrc
 
-```
+```text
 # cron-job
 # */5 * * * * getip
 
