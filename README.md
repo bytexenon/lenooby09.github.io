@@ -1,13 +1,13 @@
 Hello,
-I'm a caffeine addict, high school student, and a professional idiot with access to the internet ![:3](assets/88x31/popup_:3_catppuccin_macchiato.png)
+I'm a caffeine addict, high school student, and a professional idiot with access to the internet ![:3](88x31/popup_:3_catppuccin_macchiato.png)
 
-<img alt="arch" height="100" src="assets/88x31/arch_catppuccin_macchiato.png" width="100"/>
+<img alt="arch" height="100" src="88x31/arch_catppuccin_macchiato.png" width="100"/>
 btw
 
 
 ---
 
-#### [PGP](assets/pgp)
+#### [PGP](pgp)
 
 ---
 
@@ -47,7 +47,7 @@ being a great friend and helping me out when I needed it the most. ![<3](assets/
 
 ### Friends:
 
-[bytexenon](https://bytexenon.github.io)<img alt="&lt;3" height="20" src="assets/88x31/popup_%3C3_catppuccin_macchiato.png" width="20"/>
+[bytexenon](https://bytexenon.github.io)<img alt="&lt;3" height="20" src="88x31/popup_%3C3_catppuccin_macchiato.png" width="20"/>
 my beloved
 
 
@@ -62,7 +62,7 @@ my beloved
 
 ---
 
-# [Testimonials](assets/testamonials/readme.md)
+# [Testimonials](testamonials/readme.md)
 
 ---
 
@@ -70,18 +70,18 @@ my beloved
 
 | Discord | ~~Twitter~~ | BlueSky | Last.fm | Anilist | Matrix | E-Mail |
 |---|---|---|---|---|---|---|
-| [Server](assets/discord) | [~~@LeNooby09~~](https://twitter.com/lenooby09) | [@LeNooby09.github.io](https://bsky.app/profile/lenooby09.github.io) | [@LeNooby09](https://www.last.fm/user/lenooby09) | [@LeNooby09](https://anilist.co/user/LeNooby09/) | [LeNooby09](lenooby09:matrix.org) | lenooby09@proton.me |
+| [Server](discord) | [~~@LeNooby09~~](https://twitter.com/lenooby09) | [@LeNooby09.github.io](https://bsky.app/profile/lenooby09.github.io) | [@LeNooby09](https://www.last.fm/user/lenooby09) | [@LeNooby09](https://anilist.co/user/LeNooby09/) | [LeNooby09](lenooby09:matrix.org) | lenooby09@proton.me |
 
 ###### Session:
 `05ba4c3149c2de3b9a3da4726c6d48b4f41d53282eb73beb80de2dab454b5a0f72`
 
-### [Donate](assets/donate)
+### [Donate](donate)
 please don't, I'm not worth it
 
 ---
 
 # Button:
 
-<img alt="88x31" height="62" src="assets/88x31/88x31.png" width="176"/>
+<img alt="88x31" height="62" src="88x31/88x31.png" width="176"/>
 
 ###### [button assets](assets/88x31/assets.md)
