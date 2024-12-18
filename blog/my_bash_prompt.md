@@ -52,6 +52,9 @@ fi; if [ "$(ip route get 1.1.1.1 2>&1)" == "RTNETLINK answers: Network is unreac
  else ip route get 1.1.1.1 | awk -F "src " '\''NR == 1{ split($2, a," ");print a[1]}'\'' > $ip_cache_local;\
 fi'
 
+# hide ip
+alias spoofip='echo -e "spoofed" > $ip_cache_public && echo -e "spoofed" > $ip_cache_local'
+
 PROMPT_COMMAND='local_ip=$(cat $ip_cache_local);\
 git_branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo "no repo");\
 public_ip=$(cat $ip_cache_public);'
